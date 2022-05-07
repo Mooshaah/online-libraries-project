@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "type": "",
+            "name": " ",
+            "email": " ",
+            "id": "",
+            "Allowed_list_of_user_types": [],
+            "List_of_new_users": [],
+            "List_of_already_registered_users": [],
+            "List_of_restricted_users": [],
+            "Borrowing_policy": "",
+            "Loan_period": 30
+        }
+    ]
+}

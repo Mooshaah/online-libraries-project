@@ -1,0 +1,9 @@
+{
+    "Library": [
+        {
+            "list_of_books_in_this_library": [],
+            "Borrowing_policy": "",
+            "List_of_active_loans": []
+        }
+    ]
+}
